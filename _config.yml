@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-source: src
+source: ./src
 
 title: [buscou.com]
 description: [buscou.com when you serch you find it!]
