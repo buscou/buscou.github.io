@@ -1,6 +1,5 @@
 theme: jekyll-theme-slate
 
-source: /src
 exclude: ["README.md", "License.md"]
 
 title: [buscou.com]
