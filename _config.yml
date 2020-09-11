@@ -3,5 +3,7 @@ theme: jekyll-theme-slate
 title: buscou.com
 description: buscou.com when you search you find it!
 
+source: ./_source
+
 show_downloads: false
 google_analytics: UA-48440306-8
