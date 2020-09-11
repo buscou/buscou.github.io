@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 
-title: [buscou.com]
-description: [buscou.com when you serch you find it!]
+title: buscou.com
+description: buscou.com when you search you find it!
 
 show_downloads: false
-google_analytics: [UA-48440306-8]
+google_analytics: UA-48440306-8
