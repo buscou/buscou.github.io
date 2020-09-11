@@ -1,1 +1,1 @@
-# buscou.github.io
+# buscou.com
