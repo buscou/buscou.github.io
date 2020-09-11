@@ -1,7 +1,5 @@
 theme: jekyll-theme-slate
 
-exclude: ["README.md", "License.md"]
-
 title: [buscou.com]
 description: [buscou.com when you serch you find it!]
 
